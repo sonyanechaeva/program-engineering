@@ -1,0 +1,122 @@
+<mxfile host="app.diagrams.net" modified="2023-11-02T11:44:35.260Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36 OPR/103.0.0.0" etag="AtJo7yZ9LlI_ch0tS7Hj" version="22.0.8" type="google">
+  <diagram name="Страница — 1" id="r8jPfWwLue8CTjlcGaSl">
+    <mxGraphModel grid="1" page="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="zKIwt_qfFGgp6H72N21T-1" value="Специалист по &lt;br&gt;техническому обслуживанию&lt;br&gt;" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="220" y="350" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="zKIwt_qfFGgp6H72N21T-2" value="Обслуживание и ремонт коровника" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="330" y="350" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="zKIwt_qfFGgp6H72N21T-4" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="240" y="390" as="sourcePoint" />
+            <mxPoint x="330" y="390" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="zKIwt_qfFGgp6H72N21T-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="zKIwt_qfFGgp6H72N21T-7" target="zKIwt_qfFGgp6H72N21T-9">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="391" y="210" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="zKIwt_qfFGgp6H72N21T-7" value="Специалист&lt;br&gt;по кормлению" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="420" y="200" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="zKIwt_qfFGgp6H72N21T-8" value="Разработка и контроль рациона коров" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="200" y="220" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="zKIwt_qfFGgp6H72N21T-9" value="Отслеживание качества корма и его реализации коровам" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="280" y="90" width="130" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="zKIwt_qfFGgp6H72N21T-14" value="" style="endArrow=classic;html=1;rounded=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="zKIwt_qfFGgp6H72N21T-8">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="420" y="234" as="sourcePoint" />
+            <mxPoint x="350" y="280" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="zKIwt_qfFGgp6H72N21T-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="zKIwt_qfFGgp6H72N21T-15" target="zKIwt_qfFGgp6H72N21T-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="zKIwt_qfFGgp6H72N21T-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="zKIwt_qfFGgp6H72N21T-15" target="zKIwt_qfFGgp6H72N21T-19">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="zKIwt_qfFGgp6H72N21T-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="zKIwt_qfFGgp6H72N21T-15" target="zKIwt_qfFGgp6H72N21T-23">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="zKIwt_qfFGgp6H72N21T-15" value="Ветеринар" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="650" y="150" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="zKIwt_qfFGgp6H72N21T-16" value="Оформление ветеринарных паспортов животных" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="740" y="100" width="120" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="zKIwt_qfFGgp6H72N21T-18" value="Диагностика здоровых коров" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="740" y="210" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="zKIwt_qfFGgp6H72N21T-19" value="Лечение и уход за больными коровами" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="590" y="10" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="zKIwt_qfFGgp6H72N21T-22" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="zKIwt_qfFGgp6H72N21T-15" target="zKIwt_qfFGgp6H72N21T-18">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="630" y="320" as="sourcePoint" />
+            <mxPoint x="680" y="270" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="zKIwt_qfFGgp6H72N21T-23" value="Ведение и принятие родов у беременных коров" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="470" y="90" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="zKIwt_qfFGgp6H72N21T-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="zKIwt_qfFGgp6H72N21T-25" target="zKIwt_qfFGgp6H72N21T-26">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="zKIwt_qfFGgp6H72N21T-25" value="Доярка&lt;br&gt;" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="1010" y="310" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="zKIwt_qfFGgp6H72N21T-26" value="Доение коров" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="830" y="300" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="zKIwt_qfFGgp6H72N21T-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="zKIwt_qfFGgp6H72N21T-28" target="zKIwt_qfFGgp6H72N21T-29">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="zKIwt_qfFGgp6H72N21T-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="zKIwt_qfFGgp6H72N21T-28" target="zKIwt_qfFGgp6H72N21T-30">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="zKIwt_qfFGgp6H72N21T-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="zKIwt_qfFGgp6H72N21T-28" target="zKIwt_qfFGgp6H72N21T-31">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="zKIwt_qfFGgp6H72N21T-28" value="Управляющий" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="580" y="440" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="zKIwt_qfFGgp6H72N21T-29" value="Организация и управление работой персонала фермы" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="510" y="310" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="zKIwt_qfFGgp6H72N21T-30" value="Планирование и координация работы по уходу за животными" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="370" y="480" width="140" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="zKIwt_qfFGgp6H72N21T-31" value="Заключение договоров с поставщиками кормов" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="690" y="350" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="zKIwt_qfFGgp6H72N21T-35" value="Участие в разработке стратегии развития фермы" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="720" y="460" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="zKIwt_qfFGgp6H72N21T-36" value="Решение вопросов с государственными органами и службами" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="640" y="570" width="140" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="zKIwt_qfFGgp6H72N21T-38" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.066;entryY=0.197;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="zKIwt_qfFGgp6H72N21T-36">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="600" y="520" as="sourcePoint" />
+            <mxPoint x="630" y="520" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="zKIwt_qfFGgp6H72N21T-39" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="zKIwt_qfFGgp6H72N21T-35">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="620" y="500" as="sourcePoint" />
+            <mxPoint x="670" y="450" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
